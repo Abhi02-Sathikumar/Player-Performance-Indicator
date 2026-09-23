@@ -16,6 +16,7 @@ An advanced football analytics web application designed to explore deep player p
 
 ## 📊 Dataset Insights
 - **Data Source:** StatsBomb Open Data
+- ![Logo_Of_StatsBomb](static/Hudlvideologo.png)
 - **Players Tracked:** 1,178+
 - **World Cup Seasons:** 7
 - **Player Records:** 1,361+
