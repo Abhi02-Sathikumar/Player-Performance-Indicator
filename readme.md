@@ -84,9 +84,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## File Structure
+## 📂 Project Structure
 
-Football_Player_Performance_Indicator/
+Based on your project workspace, here is how the files and directories are organized:
+
+```text
+Football_Player_Performance/
 │
 ├── static/
 │   ├── fifa_world_cup.glb      # 3D asset for UI / WebGL
@@ -105,6 +108,9 @@ Football_Player_Performance_Indicator/
 ├── requirements.txt            # Python package dependencies
 ├── world_cup_player_stats.csv  # Dataset containing World Cup player statistics
 └── xg_model_bundle.pkl         # Expected Goals (xG) prediction model bundle
+```
+
+---
 
 ## 📝 License
 
